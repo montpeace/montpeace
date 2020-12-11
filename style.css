@@ -95,7 +95,7 @@ display: inline;
 @media (max-width: 540px) {
   /* For a screen < 540px, this CSS will be read */
   .container {
-    width: 340px;
+    width: 355px;
   }
 }
 
